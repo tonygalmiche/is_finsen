@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_is_fabricant,access_is_fabricant,model_is_fabricant,base.group_user,1,1,1,1
+access_is_marque,access_is_marque,model_is_marque,base.group_user,1,1,1,1
+access_is_gamme,access_is_gamme,model_is_gamme,base.group_user,1,1,1,1

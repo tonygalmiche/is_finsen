@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+
+    <!-- <menuitem 
+        id="is_mail_template_menu" 
+        sequence="900" 
+        name="Modèles de courriels"
+        parent="sale.menu_sale_config" 
+        action="is_mail_template_action" 
+    />
+ -->
+</odoo>
